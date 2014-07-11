@@ -1,4 +1,4 @@
-simple_endpoint
-===============
+simple_search
+=============
 
-test sinatra endpoint
+simple search application which places sinatra endpoint on xapian
